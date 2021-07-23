@@ -1,4 +1,4 @@
-# TG-UserBot
+# ReislerBot
 
 A modular Telegram UserBot for Python which uses the [Telethon][telethon] library. It is made to help you do your usual client tasks without the hassle and also has some additional useful features.
 
