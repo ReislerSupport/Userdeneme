@@ -25,13 +25,13 @@ A modular Telegram UserBot for Python which uses the [Telethon][telethon] librar
 Clone the repository.
 
 ```sh
-$ git clone https://github.com/kandnub/TG-UserBot/
+$ git clone https://github.com/ReislerSupport/Userdeneme/
 ```
 
 Change the current directory to the cloned one.
 
 ```sh
-$ cd TG-UserBot
+$ cd ReislerUserBot
 ```
 
 Edit the config either using Nano/Vim or a Text Editor and put your ENV Vars in the same.
